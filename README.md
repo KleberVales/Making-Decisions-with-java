@@ -25,3 +25,4 @@
 ### Returning Consistent Data Types
 ### Exhausting the switch Branches
 ### Using the yield Statement
+### Using Pattern Matching with switch
