@@ -6,3 +6,4 @@
 ### The if Statement
 ### The else Statement
 ### Shortening Code with Pattern Matching
+### Pattern Variables and Expressions
