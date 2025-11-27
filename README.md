@@ -26,3 +26,4 @@
 ### Exhausting the switch Branches
 ### Using the yield Statement
 ### Using Pattern Matching with switch
+### Applying Acceptable Types
