@@ -7,3 +7,4 @@
 ### The else Statement
 ### Shortening Code with Pattern Matching
 ### Pattern Variables and Expressions
+### Pattern Matching with null
