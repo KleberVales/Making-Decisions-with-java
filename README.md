@@ -10,3 +10,7 @@
 ### Pattern Matching with null
 ### Supported Types
 ### Flow Scoping
+
+---
+
+## Building switch Statements and Expressions
