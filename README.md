@@ -22,3 +22,4 @@
 ### Determining Acceptable Case Values
 ### Working with switch Statements
 ### Working with switch Expressions
+### Returning Consistent Data Types
