@@ -28,3 +28,4 @@
 ### Using Pattern Matching with switch
 ### Applying Acceptable Types
 ### Ordering switch Branches
+### Exhaustive switch Statements
