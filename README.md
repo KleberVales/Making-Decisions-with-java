@@ -16,3 +16,4 @@
 ## Building switch Statements and Expressions
 
 ### Introducing switch
+### Structuring switch Statements and Expressions
