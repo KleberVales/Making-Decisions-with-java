@@ -29,3 +29,4 @@
 ### Applying Acceptable Types
 ### Ordering switch Branches
 ### Exhaustive switch Statements
+### Handling a null Case
